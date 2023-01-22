@@ -1,3 +1,4 @@
+## Using this code use can identify all user infromation which is available in JIRA project.
 import requests
 import json
 
