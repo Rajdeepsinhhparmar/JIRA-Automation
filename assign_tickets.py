@@ -1,3 +1,5 @@
+## Using this program you can assign perticular tickets to person but for this you need account id
+
 import requests
 import json
 

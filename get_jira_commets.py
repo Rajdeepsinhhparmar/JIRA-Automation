@@ -1,3 +1,4 @@
+## Using this program you can get JIRA commets from specific tickets.
 import requests
 import json
 
